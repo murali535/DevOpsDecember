@@ -1,5 +1,4 @@
 #!/bin/bash
-history
 
 Print() {
 
